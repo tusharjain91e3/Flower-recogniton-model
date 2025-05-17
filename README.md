@@ -1,4 +1,4 @@
-# FLower-recogniton-model
+# Flower-recogniton-model
 
 
 After setup, your project directory should look like this:
@@ -17,8 +17,8 @@ Installation
 
 Clone this repository:
 
-bashgit clone https://github.com/yourusername/flower-recognition-ai.git
-cd flower-recognition-ai
+bash git clone https://github.com/tusharjain91e3/Flower-recogniton-model.git
+cd Flower-recogniton-model
 
 Create and activate a virtual environment (recommended):
 
@@ -32,7 +32,7 @@ source venv/bin/activate
 
 Install required dependencies:
 
-bashpip install tensorflow numpy streamlit
+bash pip install tensorflow numpy streamlit
 Usage
 Step 1: Train the Model
 Run the training script:
